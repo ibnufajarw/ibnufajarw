@@ -48,7 +48,7 @@
 </p>
 
 <div align="center">
-  <img style="display: block; margin: 0 auto;" alt="Coding" width="600" src="https://cdn.dribbble.com/users/594619/screenshots/2767908/hover-3.gif">
+  <img style="display: block; margin: 0 auto;" alt="Coding" width="320" src="https://cdn.dribbble.com/users/594619/screenshots/2767908/hover-3.gif">
 </div>
 
 <h3 align="center">Programming Languages:</h3>
