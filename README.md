@@ -10,10 +10,10 @@
 </p>
 
 <div align="center">
-  🌱 Currently diving deep into **JavaScript Frameworks**<br>
-    💬 Feel free to ask me anything about **JavaScript Frameworks**<br>
+  🌱 Currently diving deep into JavaScript Frameworks<br>
+    💬 Feel free to ask me anything about JavaScript Frameworks<br>
     📫 You can reach me at <a href="mailto:ibnufajarw16@gmail.com">ibnufajarw16@gmail.com</a><br>
-    ⚡ Fun fact: I'm a fan of K-Pop 🎵 and the anime One Piece 🏴‍☠️
+    ⚡ Fun fact, I'm a fan of K-Pop 🎵 and the anime One Piece 🏴‍☠️
 </div>
 
 <h3 align="center">Connect with me:</h3>
