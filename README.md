@@ -128,9 +128,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40">
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnufajarw&theme=dark" alt="ibnufajarw">
-</div>
-
-
