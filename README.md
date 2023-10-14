@@ -11,9 +11,9 @@
 
 <div align="center">
   🌱 Currently diving deep into JavaScript Frameworks<br>
-    💬 Feel free to ask me anything about JavaScript Frameworks<br>
-    📫 You can reach me at <a href="mailto:ibnufajarw16@gmail.com">ibnufajarw16@gmail.com</a><br>
-    ⚡ Fun fact, I'm a fan of K-Pop 🎵 and the anime One Piece 🏴‍☠️
+  💬 Feel free to ask me anything about JavaScript Frameworks<br>
+  📫 You can reach me at <a href="mailto:ibnufajarw16@gmail.com">ibnufajarw16@gmail.com</a><br>
+  ⚡ Fun fact, I'm a fan of K-Pop 🎵 and the anime One Piece 🏴‍☠️
 </div>
 
 <h3 align="center">Connect with me:</h3>
@@ -47,6 +47,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20966%26project%3D%26in%3D0">
+</p>
+
 <div align="center">
   <img style="display: block; margin: 0 auto;" alt="Coding" width="320" src="https://cdn.dribbble.com/users/594619/screenshots/2767908/hover-3.gif">
 </div>
@@ -68,6 +72,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40">
+  </a>
 </p>
 
 <h3 align="center">Frontend Development:</h3>
@@ -81,18 +88,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40">
   </a>
-</p>
-
-<h3 align="center">Backend Development:</h3>
-<p align="center">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40">
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40">
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
   </a>
 </p>
 
@@ -104,19 +101,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
-  </a>
-</p>
-
-<h3 align="center">Framework:</h3>
-<p align="center">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40">
-  </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40">
-  </a>
 </p>
 
 <h3 align="center">Software Design:</h3>
@@ -124,7 +108,10 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40">
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40">
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40">
+  </a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere Pro" width="40" height="40">
   </a>
 </p>
