@@ -49,6 +49,8 @@
 
 <p align="center">
   <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20966%26project%3D%26in%3D0">
+  <img src="https://wakatime.com/badge/user/070faf3c-369b-4f80-8d64-c1649321109e.svg" alt="Wakatime">
+</p>
 </p>
 
 <div align="center">
