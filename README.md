@@ -3,18 +3,9 @@
   <img src="./github-header-image.png" alt="Header Image">
 </p>
 
-<h1 align="center">Hi! 👋 I'm Ibnu Fajar W</h1>
-
 <p align="center">
-  🚀 A beginner in Information Technology, driven by a passion for using technology to solve problems and enhance lives. I am on a continuous journey of learning, exploring new programming concepts, and mastering website development to create high-quality and scalable web solutions.
+  A beginner in Information Technology, driven by a passion for using technology to solve problems and enhance lives. I am on a continuous journey of learning, exploring new programming concepts, and mastering website development to create high-quality and scalable web solutions.
 </p>
-
-<div align="center">
-  🌱 Currently diving deep into JavaScript Frameworks<br>
-  💬 Feel free to ask me anything about JavaScript Frameworks<br>
-  📫 You can reach me at <a href="mailto:ibnufajarw16@gmail.com">ibnufajarw16@gmail.com</a><br>
-  ⚡ Fun fact, I'm a fan of K-Pop 🎵 and the anime One Piece 🏴‍☠️
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
